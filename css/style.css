@@ -238,8 +238,7 @@
     background:url("Pic\ 26.jpeg") top center no-repeat;
     background-size: cover;
     text-shadow: 0 0 30px rgba(0, 0, 0, .1);
-    width: 1100px;
-    height: 500px;
+   
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
